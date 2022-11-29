@@ -1,0 +1,27 @@
+/*64rem is also 1024px when basefont is 16px*/
+@media only screen and (min-width: 64em) {
+
+    /* Hamburger Button Styling */
+
+   	nav ul {
+		display: flex;
+	}
+
+    nav ul li a {
+        padding: 1.2rem 2rem;
+    }
+    
+    nav button {display: none;}
+    
+    
+
+    /* .social {
+        move the social media icons to the right
+    } */
+
+    /*Main section styling*/
+    main {
+		display: grid;
+        grid-template-columns: 23% 24% 24% 25%;
+	}
+    
