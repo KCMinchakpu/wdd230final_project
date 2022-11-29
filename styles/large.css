@@ -11,17 +11,4 @@
         padding: 1.2rem 2rem;
     }
     
-    nav button {display: none;}
-    
-    
-
-    /* .social {
-        move the social media icons to the right
-    } */
-
-    /*Main section styling*/
-    main {
-		display: grid;
-        grid-template-columns: 23% 24% 24% 25%;
-	}
-    
+  
